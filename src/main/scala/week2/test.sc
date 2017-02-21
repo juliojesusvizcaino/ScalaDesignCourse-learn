@@ -5,4 +5,4 @@ problem.moves
 
 problem.pathSets.take(3).toList
 
-problem.solutions(6)
+problem.solutions(2)
